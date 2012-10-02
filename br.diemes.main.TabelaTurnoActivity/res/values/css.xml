@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/titleText</item>
+    </style>
+
+    <style name="titleRow">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/titleBck</item>
+        <item name="android:baselineAligned">true</item>
+        <item name="android:layout_weight">3</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="headerRow">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/headerBck</item>
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <style name="dafaultRow">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <style name="alternatetRow">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/alternateBck</item>
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:background">@color/buttonBck</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/buttonText</item>
+    </style>
+
+    <style name="columnHeader">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/headerText</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="textSizeH">
+        <item name="android:textSize">@dimen/textCellH</item>
+    </style>
+
+    <style name="textSizeV">
+        <item name="android:textSize">@dimen/textCellV</item>
+    </style>
+
+    <style name="weekendHeader">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:background">@color/weekendBck</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/weekendText</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="rowHeader">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:background">@color/headerBck</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/headerText</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/textCellH</item>
+    </style>
+
+    <style name="rowHeaderVertical">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingTop">@dimen/padSize</item>
+        <item name="android:paddingBottom">@dimen/padSize</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textCellV</item>
+        <item name="android:textColor">@color/headerText</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="wekeendCell">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:background">@color/weekendBck</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/weekendText</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="defaulCell">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/defaultText</item>
+    </style>
+
+    <style name="todayCell">
+        <item name="android:background">@color/todayBck</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="holidayCell">
+        <item name="android:textColor">@color/todayText</item>
+        <item name="android:background">@color/todayBck</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

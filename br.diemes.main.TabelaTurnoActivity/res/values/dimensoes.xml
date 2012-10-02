@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textCellV">17sp</dimen>
+    <dimen name="textCellH">10.6sp</dimen>
+    <dimen name="padSize">2dp</dimen>    
+</resources>

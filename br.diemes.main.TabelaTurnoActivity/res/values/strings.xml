@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">TabelaTurno</string>
+    <!-- Meses -->
+    <string name="m">MÊS</string>
+    <string name="m1">JAN</string>
+    <string name="m2">FEV</string>
+    <string name="m3">MAR</string>
+    <string name="m4">ABR</string>
+    <string name="m5">MAI</string>
+    <string name="m6">JUN</string>
+    <string name="m7">JUL</string>
+    <string name="m8">AGO</string>
+    <string name="m9">SET</string>
+    <string name="m10">OUT</string>
+    <string name="m11">NOV</string>
+    <string name="m12">DEZ</string>
+    <!-- Dias da Semana -->
+    <string name="w1">D</string>
+    <string name="w2">S</string>
+    <string name="w3">T</string>
+    <string name="w4">Q</string>
+    <string name="w5">Q</string>
+    <string name="w6">S</string>
+    <string name="w7">S</string>
+    <!-- GRUPOS -->
+    <string name="grupos">GRU</string>
+    <string name="g1">I</string>
+    <string name="g2">II</string>
+    <string name="g3">III</string>
+    <string name="g4">IV</string>
+    <string name="g5">V</string>
+    <!-- ESTADO -->
+    <string name="F">F</string>
+    <string name="_0">0</string>
+    <string name="_8">8</string>
+    <string name="_16">16</string>
+    <!-- RELACIONADO AO TITULO -->
+    <string name="titulo">TABELA DE TURNO DA REPLAN</string>
+    <string name="previus">\u003C</string>
+    <string name="next">\u003E</string>
+    <string name="info">informa\u00E7\u00F5es</string>
+    <string name="legendas">legendas</string>
+    <string name="autor">Autor: </string>
+    <string name="chave">Chave: </string>
+    <string name="email">E-mail: </string>
+    <string name="nomeAutor">Diemes Alves Pereira</string>
+    <string name="chaveAutor">RW5X</string>
+    <string name="endEmail">diemes.sjc@gmail.com</string>
+    <string name="texto"> O aplicativo tabela de turno foi desenvolvido com o objetivo de estudar e praticar programação para android. O aplicativo ainda está em desenvolvimento e serão adicionadas novas funcionalidades. Caso encontrem algum bug ou tenham sugestões, por favor, enviá-las através de e-mail.</string>
+</resources>

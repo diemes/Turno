@@ -1,0 +1,17 @@
+<resources>
+
+
+    <color name="alternateBck">#00FFFF</color> <!-- Cyan -->
+    <color name="weekendBck">#FFFF90</color> <!-- yellow -->
+    <color name="weekendText">#FF3030</color> <!-- orange2 -->
+    <color name="titleBck">#000044</color> <!-- darkBlue -->
+    <color name="titleText">#FFFFBB</color> <!-- white -->
+    <color name="headerBck">#000088</color> <!--  -->
+    <color name="headerText">#FFFF77</color> <!-- dark blue -->
+    <color name="defaultText">#000000</color> <!-- black -->
+    <color name="buttonBck">#DDDDDD</color> <!--  -->
+    <color name="buttonText">#000000</color> <!--  -->
+    <color name="todayBck">#00CC00</color>  <!--#55DD55  -->
+    <color name="todayText">#FF8833</color>
+
+</resources>
