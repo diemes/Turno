@@ -1,4 +1,5 @@
 package br.diemes.main;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -232,62 +233,3 @@ public class TabelaTurno {
 
 }
 
-class Holiday{
-	public final static byte HOLIDAY = 1;
-	
-	private byte day;
-	private byte month;
-	
-	byte tipo;
-	String description = null;
-	
-	public Holiday(byte day, byte month, byte tipo){
-		setDay(day);
-		setMonth(month);
-		setTipo(tipo);	
-	}
-	
-	/**
-	 * @return the description
-	 */
-	public String getDescription() {
-		return description;
-	}
-
-	/**
-	 * @param description the description to set
-	 */
-	public void setDescription(String description) {
-		this.description = description;
-	}
-
-	/**
-	 * @return the holiday
-	 */
-	public static byte getHoliday() {
-		return HOLIDAY;
-	}
-
-	public byte getTipo() {
-		return tipo;
-	}
-
-	public void setTipo(byte tipo) {
-		this.tipo = tipo;
-	}
-
-	public byte getDay() {
-		return day;
-	}
-	public void setDay(byte day) {
-		this.day = day;
-	}
-	public byte getMonth() {
-		return month;
-	}
-	public void setMonth(byte month) {
-		this.month = month;
-	}
-
-	
-}

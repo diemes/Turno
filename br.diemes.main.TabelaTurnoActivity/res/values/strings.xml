@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
     <string name="app_name">TabelaTurno</string>
     <!-- Meses -->
@@ -40,7 +40,6 @@
     <string name="previus">\u003C</string>
     <string name="next">\u003E</string>
     <string name="info">informa\u00E7\u00F5es</string>
-    <string name="legendas">legendas</string>
     <string name="autor">Autor: </string>
     <string name="chave">Chave: </string>
     <string name="email">E-mail: </string>
@@ -48,4 +47,7 @@
     <string name="chaveAutor">RW5X</string>
     <string name="endEmail">diemes.sjc@gmail.com</string>
     <string name="texto"> O aplicativo tabela de turno foi desenvolvido com o objetivo de estudar e praticar programação para android. O aplicativo ainda está em desenvolvimento e serão adicionadas novas funcionalidades. Caso encontrem algum bug ou tenham sugestões, por favor, enviá-las através de e-mail.</string>
+    <string name="addEvento">Adicionar Evento</string>
+    <string name="tvCabecalhoCalendarios">Selecione os calendários a serem visualizados.</string>
+    <string name="selecionaCalendarios">Selecionar Calendários</string>
 </resources>
